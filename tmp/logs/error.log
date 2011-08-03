@@ -1,0 +1,12 @@
+2011-08-03 14:27:25 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/SnowMuluba/Sites/public_html/aveiroarte/webroot/index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-08-03 17:51:21 Error: [MissingControllerException] Controller class CountriesController could not be found.
+#0 /Users/SnowMuluba/Sites/public_html/aveiroarte/webroot/index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-08-03 17:51:27 Error: [MissingControllerException] Controller class CountriesController could not be found.
+#0 /Users/SnowMuluba/Sites/public_html/aveiroarte/webroot/index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-08-03 18:44:50 Error: [MissingControllerException] Controller class StylesController could not be found.
+#0 /Users/SnowMuluba/Sites/public_html/aveiroarte/webroot/index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
